@@ -1,5 +1,14 @@
 # DataVisualization_MichelleBeckner
 
+Tableau Public Files
+
+Baseball Story Tableau Story DRAFT
+https://public.tableau.com/shared/C26RSKJXM?:display_count=n&:origin=viz_share_link
+
+Baseball Story Tableau Story FINAL
+https://public.tableau.com/views/MichelleBeckner_DataVisualizationProject_Final/HeightAmongTop10BattingAveragePlayers?:language=en-US&:display_count=n&:origin=viz_share_link
+
+
 Summary:
 
 I chose to examine the dataset on baseball data. The dataset contained information on baseball player’s statistics such as batting average, handedness, height, weight, and home runs. I became curious if batting averages were affected by handedness, height, or weight. I decided to look at a small segment of the baseball players. I chose the baseball players with the top 10 batting averages. After looking at the data and visualizations, the only interesting correlation I saw was that most baseball players with top batting averages were left-handed.
