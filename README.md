@@ -28,5 +28,6 @@ The story did not really explain the thought process of the progression of the s
 Resources:
 
 https://help.tableau.com/current/pro/desktop/en-us/actions_dashboards.htm
+
 https://help.tableau.com/current/pro/desktop/en-us/buildexamples_bar.htm
 
